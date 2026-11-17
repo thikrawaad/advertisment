@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html lang="en" class="scroll-smooth">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Best Customized Acrylic, Wood Engraving & Fresh Flower Shop in Riyadh | ذكرى وعد</title>
+  <meta name="description" content="Best Customized Design, Laser Engraved Acrylic & Wood Gift Boxes, Fresh & Artificial Flower Bouquets Shop in Riyadh, Saudi Arabia." />
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;600;700&family=Playfair+Display:ital,wght@0,600;0,700;1,600&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <style>
+    body { font-family: 'Plus Jakarta Sans', sans-serif; }
+    .font-serif-luxury { font-family: 'Playfair Display', serif; }
+    .font-arabic { font-family: 'Cairo', sans-serif; }
+  </style>
+</head>
+<body class="bg-[#FAF8F5] text-stone-800 antialiased">
+
+  <!-- Top Bar -->
+  <div class="bg-stone-900 text-amber-100 text-xs py-2.5 px-4">
+    <div class="max-w-7xl mx-auto flex flex-wrap items-center justify-between gap-2">
+      <p>📍 Riyadh, Saudi Arabia • Custom Acrylic & Wood Laser Engraving • Same-Day Flower Delivery</p>
+      <div class="flex items-center gap-4 font-medium">
+        <a href="tel:+966508620406" class="hover:text-amber-300 transition">📞 +966 50 862 0406</a>
+        <a href="https://w3dds.com/" target="_blank" rel="noopener noreferrer" class="underline hover:text-amber-300">Official Store ↗</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- Navbar -->
+  <header class="sticky top-0 z-40 bg-white/90 backdrop-blur-md border-b border-stone-200">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-20 flex items-center justify-between">
+      <a href="#" class="flex items-center gap-3">
+        <div class="w-11 h-11 rounded-xl bg-amber-800 text-white flex items-center justify-center font-serif-luxury text-xl font-bold shadow">
+          ZW
+        </div>
+        <div>
+          <span class="block font-serif-luxury text-lg font-bold text-stone-900 leading-tight">Zikra Waad</span>
+          <span class="block font-arabic text-xs text-amber-800 font-semibold">ذكرى وعد للهدايا والتصميم</span>
+        </div>
+      </a>
+
+      <nav class="hidden md:flex items-center gap-8 text-sm font-medium text-stone-600">
+        <a href="#services" class="hover:text-amber-800 transition">Our Craft</a>
+        <a href="#catalog" class="hover:text-amber-800 transition">All Categories</a>
+        <a href="#contact" class="hover:text-amber-800 transition">Contact</a>
+      </nav>
+
+      <div class="flex items-center gap-3">
+        <a href="https://wa.me/966508620406" target="_blank" rel="noopener noreferrer"
+           class="hidden sm:inline-flex items-center gap-2 px-4 py-2.5 rounded-full border border-emerald-600 text-emerald-700 hover:bg-emerald-50 text-sm font-semibold transition">
+          WhatsApp
+        </a>
+        <a href="https://w3dds.com/" target="_blank" rel="noopener noreferrer"
+           class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full bg-amber-800 hover:bg-amber-900 text-white text-sm font-semibold shadow-sm transition">
+          Order Online ↗
+        </a>
+      </div>
+    </div>
+  </header>
+
+  <!-- Hero Section -->
+  <section class="relative overflow-hidden bg-gradient-to-br from-stone-900 via-stone-800 to-amber-950 text-white py-20 lg:py-28">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
+      <div class="max-w-3xl">
+        <span class="inline-block px-4 py-1.5 rounded-full bg-amber-500/20 border border-amber-400/30 text-amber-200 text-xs font-semibold tracking-wider uppercase mb-6">
+          Bespoke Laser Workshop & Floral Studio in Riyadh
+        </span>
+        <h1 class="font-serif-luxury text-4xl sm:text-5xl lg:text-6xl font-bold leading-tight mb-6">
+          Best Customized Acrylic, Wood Engraving &amp; Fresh Flower Shop in Riyadh | ذكرى وعد
+        </h1>
+        <p class="text-stone-300 text-lg sm:text-xl leading-relaxed mb-8">
+          From luxury <strong class="text-white">fresh &amp; artificial flower bouquets</strong> to custom-made <strong class="text-white">laser-engraved acrylic and wooden gift boxes</strong>, office name stands, wedding Shabaka trays, and corporate giveaways crafted on order.
+        </p>
+
+        <div class="flex flex-wrap items-center gap-4">
+          <a href="https://w3dds.com/" target="_blank" rel="noopener noreferrer"
+             class="px-8 py-4 rounded-full bg-amber-600 hover:bg-amber-500 text-white font-semibold text-base shadow-lg transition">
+            Order Now on Store ↗
+          </a>
+          <a href="https://wa.me/966508620406?text=Hello%2C%20I%20want%20to%20place%20a%20custom%20order" target="_blank" rel="noopener noreferrer"
+             class="px-8 py-4 rounded-full bg-white/10 hover:bg-white/20 border border-white/25 text-white font-semibold text-base backdrop-blur transition">
+            Custom Order via WhatsApp
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Core Specialties Highlight -->
+  <section id="services" class="py-16 bg-white border-b border-stone-200">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="grid md:grid-cols-3 gap-8">
+        <div class="p-7 rounded-2xl bg-[#FAF8F5] border border-stone-200/80">
+          <div class="text-3xl mb-4">💐</div>
+          <h3 class="font-serif-luxury text-xl font-bold text-stone-900 mb-2">Fresh &amp; Artificial Flowers</h3>
+          <p class="text-stone-600 text-sm leading-relaxed mb-4">Hand-tied fresh bouquets, bridal maska, and long-lasting artificial floral arrangements in luxury ceramic and glass vases.</p>
+          <a href="https://w3dds.com/" target="_blank" rel="noopener noreferrer" class="text-amber-800 font-semibold text-sm hover:underline">Order Flowers →</a>
+        </div>
+
+        <div class="p-7 rounded-2xl bg-[#FAF8F5] border border-stone-200/80">
+          <div class="text-3xl mb-4">✨</div>
+          <h3 class="font-serif-luxury text-xl font-bold text-stone-900 mb-2">Custom Acrylic &amp; Wood Boxes</h3>
+          <p class="text-stone-600 text-sm leading-relaxed mb-4">Made-to-order clear/colored acrylic boxes, wooden gift trunks, bridal Shabaka trays, and cash presentation stands.</p>
+          <a href="https://w3dds.com/" target="_blank" rel="noopener noreferrer" class="text-amber-800 font-semibold text-sm hover:underline">Order Custom Box →</a>
+        </div>
+
+        <div class="p-7 rounded-2xl bg-[#FAF8F5] border border-stone-200/80">
+          <div class="text-3xl mb-4">🖋️</div>
+          <h3 class="font-serif-luxury text-xl font-bold text-stone-900 mb-2">Precision Laser Engraving</h3>
+          <p class="text-stone-600 text-sm leading-relaxed mb-4">Custom Arabic calligraphy &amp; logo engraving on wood, acrylic office desk nameplates, graduation shields, and cake toppers.</p>
+          <a href="https://w3dds.com/" target="_blank" rel="noopener noreferrer" class="text-amber-800 font-semibold text-sm hover:underline">Order Engraved Gift →</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Complete Catalog Section -->
+  <section id="catalog" class="py-20">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="text-center max-w-2xl mx-auto mb-12">
+        <h2 class="font-serif-luxury text-3xl sm:text-4xl font-bold text-stone-900 mb-3">Complete Store Categories &amp; Items</h2>
+        <p class="text-stone-600">Browse all customized gifts, floral arrangements, stands, and seasonal collections. Click any item to order directly on our store.</p>
+      </div>
+
+      <!-- Search & Filter -->
+      <div class="flex flex-col sm:flex-row items-center justify-between gap-4 mb-10">
+        <input type="text" id="searchInput" placeholder="Search flowers, acrylic box, mabakhar, graduation..."
+               class="w-full sm:w-96 px-4 py-3 rounded-xl border border-stone-300 bg-white focus:outline-none focus:ring-2 focus:ring-amber-700 text-sm" />
+        <div id="filterButtons" class="flex flex-wrap gap-2 justify-center">
+          <button data-filter="all" class="filter-btn active px-4 py-2 rounded-full text-xs font-semibold bg-amber-800 text-white">All (16)</button>
+          <button data-filter="flowers" class="filter-btn px-4 py-2 rounded-full text-xs font-semibold bg-white border border-stone-300 text-stone-700 hover:bg-stone-100">Flowers</button>
+          <button data-filter="stands" class="filter-btn px-4 py-2 rounded-full text-xs font-semibold bg-white border border-stone-300 text-stone-700 hover:bg-stone-100">Acrylic &amp; Wood</button>
+          <button data-filter="occasions" class="filter-btn px-4 py-2 rounded-full text-xs font-semibold bg-white border border-stone-300 text-stone-700 hover:bg-stone-100">Occasions</button>
+          <button data-filter="decor" class="filter-btn px-4 py-2 rounded-full text-xs font-semibold bg-white border border-stone-300 text-stone-700 hover:bg-stone-100">Decor &amp; Packaging</button>
+        </div>
+      </div>
+
+      <!-- Cards Grid -->
+      <div id="productGrid" class="grid sm:grid-cols-2 lg:grid-cols-4 gap-6"></div>
+    </div>
+  </section>
+
+  <!-- Contact & Location Section -->
+  <section id="contact" class="py-20 bg-stone-900 text-white">
+    <div class="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+      <h2 class="font-serif-luxury text-3xl sm:text-4xl font-bold mb-4">Order Custom Designs or Same-Day Flowers in Riyadh</h2>
+      <p class="text-stone-300 max-w-2xl mx-auto mb-10">
+        Need custom engraving in Arabic or English on acrylic/wood boxes, corporate gifts, or a fresh flower bouquet? Reach us directly or order online.
+      </p>
+
+      <div class="grid sm:grid-cols-3 gap-6 text-left mb-10">
+        <div class="p-6 rounded-2xl bg-white/5 border border-white/10">
+          <p class="text-amber-400 text-xs font-semibold uppercase mb-1">Phone &amp; WhatsApp</p>
+          <a href="tel:+966508620406" class="text-lg font-bold hover:text-amber-300 block">+966 50 862 0406</a>
+          <a href="https://wa.me/966508620406" target="_blank" rel="noopener noreferrer" class="text-xs text-emerald-400 hover:underline mt-1 inline-block">Chat on WhatsApp ↗</a>
+        </div>
+
+        <div class="p-6 rounded-2xl bg-white/5 border border-white/10">
+          <p class="text-amber-400 text-xs font-semibold uppercase mb-1">Official Online Store</p>
+          <a href="https://w3dds.com/" target="_blank" rel="noopener noreferrer" class="text-lg font-bold hover:text-amber-300 block">w3dds.com</a>
+          <span class="text-xs text-stone-400 mt-1 block">24/7 Online Ordering</span>
+        </div>
+
+        <div class="p-6 rounded-2xl bg-white/5 border border-white/10">
+          <p class="text-amber-400 text-xs font-semibold uppercase mb-1">Workshop &amp; Delivery</p>
+          <p class="text-lg font-bold">Riyadh, Saudi Arabia</p>
+          <span class="text-xs text-stone-400 mt-1 block">Custom Engraving &amp; Citywide Delivery</span>
+        </div>
+      </div>
+
+      <a href="https://w3dds.com/" target="_blank" rel="noopener noreferrer"
+         class="inline-flex items-center gap-2 px-9 py-4 rounded-full bg-amber-600 hover:bg-amber-500 text-white font-semibold shadow-lg transition">
+        Visit Full Store &amp; Place Order (w3dds.com) ↗
+      </a>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="bg-stone-950 text-stone-400 py-8 text-center text-xs border-t border-stone-800 space-y-2">
+    <p>© 2026 Zikra Waad (ذكرى وعد) — Best Customized Acrylic, Wood Engraving &amp; Fresh Flower Shop in Riyadh. All Rights Reserved.</p>
+    <p class="text-amber-500 font-medium">Designing and handled by - Mo Asif Khan (asifshravasti)</p>
+  </footer>
+
+  <!-- Floating WhatsApp Button -->
+  <a href="https://wa.me/966508620406" target="_blank" rel="noopener noreferrer" aria-label="Chat on WhatsApp"
+     class="fixed bottom-6 right-6 z-50 flex items-center gap-2 bg-emerald-600 hover:bg-emerald-500 text-white px-5 py-3.5 rounded-full shadow-xl font-semibold text-sm transition">
+    <span>💬 WhatsApp Order</span>
+  </a>
+
+  <script>
+    const items = [
+      { title: "Fresh Flower Bouquets", ar: "ورد طبيعي", cat: "flowers", desc: "Handcrafted fresh roses & seasonal flower bouquets for all celebrations." },
+      { title: "Artificial Flowers & Vases", ar: "الورد الصناعي وفازات مع ورد", cat: "flowers", desc: "Luxury long-lasting artificial floral arrangements in decorative vases." },
+      { title: "Bridal Bouquets (Maska)", ar: "مسكة عروس", cat: "flowers", desc: "Custom wedding hand bouquets designed with fresh or silk blooms." },
+      { title: "Custom Acrylic & Wood Gift Boxes", ar: "بوكسات أكريليك وخشب محفورة", cat: "stands", desc: "Made-to-order clear acrylic and engraved wooden boxes for luxury gifting." },
+      { title: "Office Desk Name Stands", ar: "ستاند مكاتب", cat: "stands", desc: "Laser-engraved acrylic & wood office nameplates and executive desk stands." },
+      { title: "Event & Occasion Stands", ar: "ستاند مناسبات", cat: "stands", desc: "Custom welcome boards, reception stands, and engraved event displays." },
+      { title: "Bridal Shabaka Trays", ar: "تقديم شبكة عروس", cat: "stands", desc: "Bespoke acrylic & wood jewelry presentation trays for engagement Shabaka." },
+      { title: "Money Presentation Stands", ar: "تقديم مبلغ مالي", cat: "stands", desc: "Creative cash gifting boxes and engraved money presentation stands." },
+      { title: "Graduation Gifts & Shields", ar: "هدايا التخرج", cat: "occasions", desc: "Personalized graduation trophies, acrylic plaques, and flower gift sets." },
+      { title: "Corporate & Employee Gifts", ar: "هدايا موظفين وشركات", cat: "occasions", desc: "Branded VIP corporate boxes, engraved plaques, and company giveaways." },
+      { title: "Men's Luxury Gifts", ar: "هدايا رجالية", cat: "occasions", desc: "Curated men's gift sets with custom engraved boxes and accessories." },
+      { title: "National & Founding Day Items", ar: "اليوم الوطني ويوم التأسيس", cat: "occasions", desc: "Saudi National Day, Founding Day, Mother's Day & Teacher's Day gifts." },
+      { title: "Ramadan & Eid Hampers", ar: "رمضان والعيد", cat: "occasions", desc: "Festive Ramadan & Eid gift boxes, acrylic trays, and distribution giveaways." },
+      { title: "Oud Incense Burners (Mabakhar)", ar: "مباخر", cat: "decor", desc: "Custom engraved wooden and acrylic mabakhar for oud and bukhoor." },
+      { title: "Cake & Gift Toppers", ar: "تغريسة", cat: "decor", desc: "Laser-cut Arabic & English acrylic/wood cake toppers and flower picks." },
+      { title: "Luxury Packaging, Cards & Candles", ar: "تغليفات فخمة وكروت وشموع", cat: "decor", desc: "Premium gift wrapping boxes, custom printed greeting cards, and scented candles." }
+    ];
+
+    const grid = document.getElementById('productGrid');
+    const searchInput = document.getElementById('searchInput');
+    const filterBtns = document.querySelectorAll('.filter-btn');
+    let currentFilter = 'all';
+
+    function renderItems() {
+      const q = searchInput.value.toLowerCase();
+      const filtered = items.filter(item => {
+        const matchesCat = currentFilter === 'all' || item.cat === currentFilter;
+        const matchesQuery = item.title.toLowerCase().includes(q) || item.ar.includes(q) || item.desc.toLowerCase().includes(q);
+        return matchesCat && matchesQuery;
+      });
+
+      grid.innerHTML = filtered.map(item => `
+        <div class="bg-white rounded-2xl border border-stone-200 p-6 flex flex-col justify-between hover:shadow-md transition">
+          <div>
+            <span class="font-arabic text-xs font-bold text-amber-800 bg-amber-50 px-2.5 py-1 rounded-md inline-block mb-3">${item.ar}</span>
+            <h3 class="font-bold text-stone-900 text-lg mb-2">${item.title}</h3>
+            <p class="text-stone-600 text-sm leading-relaxed mb-5">${item.desc}</p>
+          </div>
+          <a href="https://w3dds.com/" target="_blank" rel="noopener noreferrer"
+             class="w-full text-center py-2.5 px-4 rounded-xl bg-stone-900 hover:bg-amber-800 text-white text-xs font-semibold transition">
+            Order Now ↗
+          </a>
+        </div>
+      `).join('');
+    }
+
+    filterBtns.forEach(btn => {
+      btn.addEventListener('click', () => {
+        filterBtns.forEach(b => {
+          b.classList.remove('bg-amber-800', 'text-white');
+          b.classList.add('bg-white', 'text-stone-700', 'border', 'border-stone-300');
+        });
+        btn.classList.add('bg-amber-800', 'text-white');
+        btn.classList.remove('bg-white', 'text-stone-700', 'border', 'border-stone-300');
+        currentFilter = btn.dataset.filter;
+        renderItems();
+      });
+    });
+
+    searchInput.addEventListener('input', renderItems);
+    renderItems();
+  </script>
+</body>
+</html>
